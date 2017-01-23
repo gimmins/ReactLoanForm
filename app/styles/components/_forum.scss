@@ -1,0 +1,63 @@
+.topics {
+  padding: 15px 15px 0px 15px;
+  margin: 0px 10px 15px 0px;
+  width: 100%;
+}
+
+.threads {
+  padding: 15px 15px 0px 15px;
+  margin: 0px 10px 15px 0px;
+  width: 100%;
+}
+
+.posts {
+  padding: 15px 15px 0px 15px;
+  margin: 0px 10px 15px 0px;
+  width: 100%;
+}
+
+.container__message {
+  color: white;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.container__footer {
+  border-top: 1px solid grey;
+  padding: 1rem 1rem 0 1rem;
+}
+
+p {
+  color: #777;
+}
+
+.top-bar {
+  margin-bottom: 20px;
+}
+
+.analytics {
+  margin-left: 20px;
+}
+
+.posts {
+  margin-bottom: 10px;
+
+  .content,.date {
+    text-align: left;
+  }
+}
+
+.replies {
+  .content,.date {
+    text-align: left;
+  }
+
+  .reply-button {
+    margin-right: 15px;
+  }
+}
+
+.reply-input {
+  margin-right: 15px;
+  padding: 15px 15px 0px 15px;
+}
